@@ -1,10 +1,9 @@
 {
   "name": "color-picker-service",
   "main": "./lib/color-picker-service",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "provides a color picker as a service for other package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/paulpflug/color-picker-service",
   "license": "MIT",
   "engines": {
